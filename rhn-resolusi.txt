@@ -1,0 +1,8 @@
+My goals for this year
+1. Mastering Git & Github
+2. Working on some programming languange
+  - HTML
+  - CSS
+  - PHP
+  - Java Script
+3. Mastering atleast one framework
