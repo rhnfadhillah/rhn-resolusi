@@ -4,6 +4,7 @@ Rencana penguasaan bahasa pemrograman:
 -PHP
 -Java Script
 -Framework
+  *Css Framework
   *PHP Framework
   *Java Script
-  *Tailwind css?
+-Database (Mysql)
