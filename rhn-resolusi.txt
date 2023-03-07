@@ -7,3 +7,4 @@ My goals for this year
   - Java Script
 3. Mastering atleast one framework
 4. Making website for cafe
+5. Making clean and neat database
