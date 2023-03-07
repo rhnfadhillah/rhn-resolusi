@@ -6,3 +6,4 @@ Rencana penguasaan bahasa pemrograman:
 -Framework
   *PHP Framework
   *Java Script
+  *Tailwind css?
