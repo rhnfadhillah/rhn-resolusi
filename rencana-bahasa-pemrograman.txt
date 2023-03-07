@@ -1,0 +1,8 @@
+Rencana penguasaan bahasa pemrograman:
+-HTML
+-CSS
+-PHP
+-Java Script
+-Framework
+  *PHP Framework
+  *Java Script
