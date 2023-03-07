@@ -4,6 +4,7 @@ Rencana penguasaan bahasa pemrograman:
 -PHP
 -Java Script
 -Framework
-  *PHP Framework
-  *Java Script
-  *Tailwind css?
+  *PHP Framework (Laravel)
+  *Java Script (Vue.js)
+  *Tailwind css
+-Database
